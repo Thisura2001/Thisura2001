@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisura Liyanage</h1>
-<h3 align="center">A software Engineering student from srilanka</h3>
+<h3 align="center">Software Engineer student at Institute of java Software Engineering</h3>
 
 - 🌱 I’m currently learning **javaScript , css , java**
 
