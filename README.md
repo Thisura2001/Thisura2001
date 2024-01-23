@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thisura_liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisura_liyanage" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/" height="30" width="40" /></a>
+<a href="https://medium.com/@thisura_liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thisura_liyanage" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
