@@ -2,7 +2,7 @@ github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo19483
 Fork on GitHub5827
-<h1 align="center">Hi 👋, I'm Thisura Liyanage</h1>
+<h1 align="center">Hi 👋,I'm Thisura Liyanage</h1>
 <h3 align="center">A software Engineering student from srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisura2001&label=Profile%20views&color=0e75b6&style=flat" alt="thisura2001" /> </p>
