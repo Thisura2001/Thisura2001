@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19483
-Fork on GitHub5827
+
 <h1 align="center">Hi 👋,I'm Thisura Liyanage</h1>
 <h3 align="center">A software Engineering student from srilanka</h3>
 
