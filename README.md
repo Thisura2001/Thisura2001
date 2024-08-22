@@ -14,8 +14,6 @@
 
 📫 How to reach me: **thisuravimukthi123@gmail.com**
 
-⚡ Fun fact: **Balancing my love for coding with my passion for fitness and style , you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thisura_liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisura_liyanage" height="30" width="40" /></a>
