@@ -14,7 +14,7 @@
 
 📫 How to reach me: **thisuravimukthi123@gmail.com**
 
-👨‍💻 All my projects Available at : https://thisura2001.github.io/my-portfolio/
+👨‍💻 All my projects Available at : https://thisuraa.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
